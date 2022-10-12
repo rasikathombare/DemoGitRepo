@@ -6,4 +6,7 @@ public class TestBase {
 		
 		System.out.println("tear down");
 	}
+	public void initilazitionMethod(){
+		System.out.println("start initilazition");
+	}
 }
